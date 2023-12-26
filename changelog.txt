@@ -47,3 +47,4 @@ jenkins-recipes: Update changelog 2023-12-23
 jenkins-recipes: Update changelog 2023-12-24
 jenkins-recipes: Update changelog 2023-12-25
 jenkins-recipes: Update changelog 2023-12-26
+jenkins-recipes: Update changelog 2023-12-27
