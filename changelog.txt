@@ -65,3 +65,4 @@ jenkins-recipes: Update changelog 2024-01-10
 jenkins-recipes: Update changelog 2024-01-11
 jenkins-recipes: Update changelog 2024-01-12
 jenkins-recipes: Update changelog 2024-01-13
+jenkins-recipes: Update changelog 2024-01-14
