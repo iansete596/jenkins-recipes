@@ -107,3 +107,4 @@ jenkins-recipes: Update changelog 2024-02-21
 jenkins-recipes: Update changelog 2024-02-22
 jenkins-recipes: Update changelog 2024-02-23
 jenkins-recipes: Update changelog 2024-02-24
+jenkins-recipes: Update changelog 2024-02-25
