@@ -123,3 +123,4 @@ jenkins-recipes: Update changelog 2024-03-08
 jenkins-recipes: Update changelog 2024-03-09
 jenkins-recipes: Update changelog 2024-03-10
 jenkins-recipes: Update changelog 2024-03-11
+jenkins-recipes: Update changelog 2024-03-12
